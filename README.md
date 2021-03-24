@@ -2,9 +2,9 @@
 
 The resulting App from the Creaate Your First Flutter App Code Lab
 
-{Part 1} (https://developers.google.com/codelabs/first-flutter-app-pt1)
+[Part 1](https://developers.google.com/codelabs/first-flutter-app-pt1)
 
-[Part 2] (https://developers.google.com/codelabs/first-flutter-app-pt2)
+[Part 2](https://developers.google.com/codelabs/first-flutter-app-pt2)
 
 ## App Description
 
